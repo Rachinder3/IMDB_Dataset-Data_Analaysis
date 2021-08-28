@@ -15,7 +15,7 @@ is stored as a SQLite database.
 ## Lessons Learned
 
 Learnt how to ingest a database into Python. Also got to learn how 
-to clean huge dataset. Learnt how to draw insights from such datasets.
+to clean huge datasets. Learnt how to draw insights from such datasets.
 
 
   
